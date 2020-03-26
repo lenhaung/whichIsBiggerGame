@@ -13,6 +13,7 @@
 		3EFA17772429DEF90085ABD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EFA17752429DEF90085ABD6 /* Main.storyboard */; };
 		3EFA17792429DEFB0085ABD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EFA17782429DEFB0085ABD6 /* Assets.xcassets */; };
 		3EFA177C2429DEFB0085ABD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EFA177A2429DEFB0085ABD6 /* LaunchScreen.storyboard */; };
+		3EFA17842429E3F50085ABD6 /* pokercard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EFA17832429E3F50085ABD6 /* pokercard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3EFA17782429DEFB0085ABD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EFA177B2429DEFB0085ABD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EFA177D2429DEFB0085ABD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EFA17832429E3F50085ABD6 /* pokercard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokercard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3EFA176F2429DEF90085ABD6 /* AppDelegate.swift */,
 				3EFA17712429DEF90085ABD6 /* SceneDelegate.swift */,
 				3EFA17732429DEF90085ABD6 /* ViewController.swift */,
+				3EFA17832429E3F50085ABD6 /* pokercard.swift */,
 				3EFA17752429DEF90085ABD6 /* Main.storyboard */,
 				3EFA17782429DEFB0085ABD6 /* Assets.xcassets */,
 				3EFA177A2429DEFB0085ABD6 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EFA17742429DEF90085ABD6 /* ViewController.swift in Sources */,
+				3EFA17842429E3F50085ABD6 /* pokercard.swift in Sources */,
 				3EFA17702429DEF90085ABD6 /* AppDelegate.swift in Sources */,
 				3EFA17722429DEF90085ABD6 /* SceneDelegate.swift in Sources */,
 			);
